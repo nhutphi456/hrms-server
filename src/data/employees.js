@@ -1,5 +1,6 @@
 const employees = [
   {
+    id: 1,
     firstName: "Erling",
     lastName: "Haaland",
     gender: 1,
@@ -14,6 +15,7 @@ const employees = [
     currentContract: "Full-time",
   },
   {
+    id: 2,
     firstName: "Bernado",
     lastName: "Silva",
     gender: 1,
@@ -28,6 +30,7 @@ const employees = [
     currentContract: "Full-time",
   },
   {
+    id: 3,
     firstName: "Lionel",
     lastName: "Messi",
     gender: 1,
@@ -42,6 +45,7 @@ const employees = [
     currentContract: "Full-time",
   },
   {
+    id: 4,
     firstName: "Erling",
     lastName: "Haaland",
     gender: 1,
@@ -56,6 +60,7 @@ const employees = [
     currentContract: "Full-time",
   },
   {
+    id: 5,
     firstName: "Bernado",
     lastName: "Silva",
     gender: 1,
@@ -70,6 +75,7 @@ const employees = [
     currentContract: "Full-time",
   },
   {
+    id: 6,
     firstName: "Lionel",
     lastName: "Messi",
     gender: 1,
